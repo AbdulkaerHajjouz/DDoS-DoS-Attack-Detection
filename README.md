@@ -19,4 +19,3 @@ The code is provided "as is", without any warranties or guarantees of any kind.
 
 ---
 
-You can now use this English version in your GitHub repository or any other official documentation.
