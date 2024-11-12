@@ -4,13 +4,19 @@ Detect DoS and DDoS attacks, including LOIT, HOIC, LOIC-UDP-HTTP, GoldenEye, Hul
 
 Copyright (c) [2024] [Abdulkader Hajjouz][ITMO university]
 
-This code is available for use only under the following conditions:
+Here’s the translation of your license terms in English:
 
-Non-commercial use only: The code may only be used for non-commercial purposes. It may not be used in commercial applications or for profit without prior written consent from the author.
-No modification: Modifying, altering, adding to, or removing any part of the code or its results is prohibited. Any modification must receive prior written consent from the author.
-No redistribution: Redistribution of the code or its results in any form is prohibited without explicit permission from the author.
-Attribution to the author: Anyone using the code or working with its results must clearly attribute the original work in any form of publication, distribution, or usage, and must include a link to the project's GitHub repository and the author’s research.
-No use of ideas or results: The ideas or results of this code cannot be used in any other project, whether commercial or non-commercial, without obtaining prior written consent from the author.
-All rights reserved: All rights are reserved by the author. Any use or distribution contrary to these terms requires prior written permission from the author.
+
+This code is available for use only under the following conditions:
+1. **Non-commercial use only**: The code may only be used for non-commercial purposes. It may not be used in commercial applications or for profit without prior written consent from the author.
+2. **No modification**: Modifying, altering, adding to, or removing any part of the code or its results is prohibited. Any modification must receive prior written consent from the author.
+3. **No redistribution**: Redistribution of the code or its results in any form is prohibited without explicit permission from the author.
+4. **Attribution to the author**: Anyone using the code or working with its results must clearly attribute the original work in any form of publication, distribution, or usage, and must include a link to the project's GitHub repository and the author’s research.
+5. **No use of ideas or results**: The ideas or results of this code cannot be used in any other project, whether commercial or non-commercial, without obtaining prior written consent from the author.
+6. **All rights reserved**: All rights are reserved by the author. Any use or distribution contrary to these terms requires prior written permission from the author.
+
 The code is provided "as is", without any warranties or guarantees of any kind.
 
+---
+
+You can now use this English version in your GitHub repository or any other official documentation.
